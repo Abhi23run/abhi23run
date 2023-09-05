@@ -7,6 +7,8 @@ I am currently pursuing my Masters in Computational Data Analytics from Georgia 
 
 I recently concluded my Internship at Prudential Financial in their Chief Data Office as a Graduate Data Science Intern. I worked on a project centered around exploring the synergies between Graph machine learning and NLP. This experience honed my ability to translate complex technical concepts into actionable insights, ensuring seamless communication between technical and non-technical stakeholders.
 
+Prior to this, I have had 3+ years of work experience as a Senior Data Associate at Innovaccer Inc., a Silicon Valley based healthcare analytics company that provides data driven solutions to various hospital systems and provider groups. I worked on scalable and deployment-ready solutions like “Predicting the probability of Readmission” & “Recommendation Engine for In-Network Post Acute Care expansion” , which helped me significantly in understanding the entire journey from unstructured heterogeneous pools of data to a user-friendly product through the lens of Data Science & Analytics.
+
 
 I am a big sports buff and enjoy playing and watching various sports like Soccer, Cricket etc. I am a die-hard Real Madrid fan , Hala Madrid! 
 
