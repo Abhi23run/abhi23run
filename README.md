@@ -1,4 +1,4 @@
-### Hi 👋 , I'm Abhinav Arun and I'm from India 🇮🇳
+### Hi 👋 , I'm Abhinav Arun from India 🇮🇳
 
 I possess a multifaceted portfolio of Data Science experience that encompasses a diverse spectrum of domains, ranging from Recommender Systems, Natural Language Processing (NLP), Graph Machine Learning, experimental design to Statistical modeling (Bayesian vs frequentist) and more. My journey in data science has seen me successfully navigate and excel across these distinct domains, a testament to my adaptability, analytical prowess, and commitment to embracing varied challenges. This well-rounded expertise equips me with the capability to holistically approach complex problems, draw insights from diverse datasets, and construct robust solutions that transcend conventional boundaries. 
 
