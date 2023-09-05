@@ -1,4 +1,4 @@
-### Hi 👋 , I'm Abhinav Arun
+### Hi 👋 , I'm Abhinav Arun and I'm from India 🇮🇳
 
 I possess a multifaceted portfolio of Data Science experience that encompasses a diverse spectrum of domains, ranging from Recommender Systems, Natural Language Processing (NLP), Graph Machine Learning, experimental design to Statistical modeling (Bayesian vs frequentist) and more. My journey in data science has seen me successfully navigate and excel across these distinct domains, a testament to my adaptability, analytical prowess, and commitment to embracing varied challenges. This well-rounded expertise equips me with the capability to holistically approach complex problems, draw insights from diverse datasets, and construct robust solutions that transcend conventional boundaries. 
 
@@ -10,7 +10,7 @@ I recently concluded my Internship at Prudential Financial in their Chief Data O
 Prior to this, I have had 3+ years of work experience as a Senior Data Associate at Innovaccer Inc., a Silicon Valley based healthcare analytics company that provides data driven solutions to various hospital systems and provider groups. I worked on scalable and deployment-ready solutions like “Predicting the probability of Readmission” & “Recommendation Engine for In-Network Post Acute Care expansion” , which helped me significantly in understanding the entire journey from unstructured heterogeneous pools of data to a user-friendly product through the lens of Data Science & Analytics.
 
 
-I am a big sports buff and enjoy playing and watching various sports like Soccer, Cricket etc. I am a die-hard Real Madrid fan , Hala Madrid! 
+I am a big sports buff and enjoy playing and watching various sports like Soccer, Tennis Cricket etc. I also have a strong 
 
 
 
