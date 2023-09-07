@@ -22,7 +22,8 @@ Prior to this, I have had 3+ years of work experience as a Senior Data Associate
 
 Now on to the fun part 😃 <br/>
 
-Hobbies ⚽ 🚄 : 
+Hobbies ⚽ 🚄 : <br/>
+
 I am a big sports buff and I enjoy playing and watching various sports like Soccer, Tennis Cricket etc. 
 I'm a passionate enthusiast for global exploration, endlessly intrigued by the stories, customs, and culinary delights that define each country's unique identity.<br/>
 I'm an enthusiastic devotee of tech and entrepreneurial podcasts that illuminate the art of value creation in business. 
