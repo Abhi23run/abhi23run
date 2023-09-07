@@ -14,6 +14,7 @@ Awards & Achievements 🎖️ :
   ⭐ Felicitated with Shyamal and Sunanda Ghosh Endownment Scholarship as one of the best sophomores with all-around ability. <br/>
 
 Experience 👨‍💻 : <br/>
+
 I possess a multifaceted portfolio of Data Science experience that encompasses a diverse spectrum of domains, ranging from Recommender Systems, Natural Language Processing (NLP), Graph Machine Learning, and experimental design to Statistical modeling (Bayesian vs frequentist) and more. My journey in data science has seen me successfully navigate and excel across these distinct domains, a testament to my adaptability, analytical prowess, and commitment to embracing varied challenges. This well-rounded expertise equips me with the capability to holistically approach complex problems, draw insights from diverse datasets, and construct robust solutions that transcend conventional boundaries. 
 
 I recently concluded my Internship at Prudential Financial in their Chief Data Office as a Graduate Data Science Intern. I worked on a project centered around exploring the synergies between Graph machine learning and NLP. This experience honed my ability to translate complex technical concepts into actionable insights, ensuring seamless communication between technical and non-technical stakeholders.
