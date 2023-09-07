@@ -13,15 +13,16 @@ Awards & Achievements 🎖️ :
   ⭐ Recipient of KVPY (Kishore Vaigyanik Protsahan Yojana) Scholarship - 2015 <br/>
   ⭐ Felicitated with Shyamal and Sunanda Ghosh Endownment Scholarship as one of the best sophomores with all-around ability. <br/>
 
-Experience 👨‍💼 : <br/>
+Experience 👨‍💻 : <br/>
 I possess a multifaceted portfolio of Data Science experience that encompasses a diverse spectrum of domains, ranging from Recommender Systems, Natural Language Processing (NLP), Graph Machine Learning, and experimental design to Statistical modeling (Bayesian vs frequentist) and more. My journey in data science has seen me successfully navigate and excel across these distinct domains, a testament to my adaptability, analytical prowess, and commitment to embracing varied challenges. This well-rounded expertise equips me with the capability to holistically approach complex problems, draw insights from diverse datasets, and construct robust solutions that transcend conventional boundaries. 
 
 I recently concluded my Internship at Prudential Financial in their Chief Data Office as a Graduate Data Science Intern. I worked on a project centered around exploring the synergies between Graph machine learning and NLP. This experience honed my ability to translate complex technical concepts into actionable insights, ensuring seamless communication between technical and non-technical stakeholders.
 
 Prior to this, I have had 3+ years of work experience as a Senior Data Associate at Innovaccer Inc., a Silicon Valley based healthcare analytics company that provides data driven solutions to various hospital systems and provider groups. I worked on scalable and deployment-ready solutions like “Predicting the probability of Readmission” & “Recommendation Engine for In-Network Post Acute Care expansion” , which helped me significantly in understanding the entire journey from unstructured heterogeneous pools of data to a user-friendly product through the lens of Data Science & Analytics.
 
-Now on to the fun part 😃
+Now on to the fun part 😃 <br/>
 
+Hobbies ⚽ 🚄 : 
 I am a big sports buff and I enjoy playing and watching various sports like Soccer, Tennis Cricket etc. 
 I'm a passionate enthusiast for global exploration, endlessly intrigued by the stories, customs, and culinary delights that define each country's unique identity.<br/>
 I'm an enthusiastic devotee of tech and entrepreneurial podcasts that illuminate the art of value creation in business. 
