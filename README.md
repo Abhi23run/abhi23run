@@ -4,13 +4,13 @@ My educational background, underscored by my professional journey, empowers me w
 
 I am currently pursuing my Masters's in Computational Data Analytics from Georgia Tech, an institution recognized for its rigorous curriculum and dedication to fostering analytical prowess. I also hold a Bachelor’s Degree in Mechanical Engineering from IIT Kharagpur, one of the most revered engineering institutes in India.
 
-Awards & Achievements : 
-<ol>
-  <li> ⭐ Awarded Leading by Example award in 5 quarters and Champion of the Quarter award in 3 quarters at Innovaccer Inc. </li>
-  <li> ⭐ Bagged an All India Rank of 1336 and 916 in JEE ADVANCED 2015 and JEE MAINS 2015 respectively - Top 0.1% </li>
-  <li> ⭐ Recipient of KVPY (Kishore Vaigyanik Protsahan Yojana) Scholarship - 2015 </li>
-  <li> ⭐ Felicitated with Shyamal and Sunanda Ghosh Endownment Scholarship as one of the best sophomores with all-round ability.</li>
-</ol>
+Awards & Achievements 🎖️ : 
+
+  ⭐ Awarded Leading by Example award in 5 quarters and Champion of the Quarter award in 3 quarters at Innovaccer Inc. 
+  ⭐ Bagged an All India Rank of 1336 and 916 in JEE ADVANCED 2015 and JEE MAINS 2015 respectively - Top 0.1% 
+  ⭐ Recipient of KVPY (Kishore Vaigyanik Protsahan Yojana) Scholarship - 2015 
+  ⭐ Felicitated with Shyamal and Sunanda Ghosh Endownment Scholarship as one of the best sophomores with all-around ability.
+
 
 I possess a multifaceted portfolio of Data Science experience that encompasses a diverse spectrum of domains, ranging from Recommender Systems, Natural Language Processing (NLP), Graph Machine Learning, and experimental design to Statistical modeling (Bayesian vs frequentist) and more. My journey in data science has seen me successfully navigate and excel across these distinct domains, a testament to my adaptability, analytical prowess, and commitment to embracing varied challenges. This well-rounded expertise equips me with the capability to holistically approach complex problems, draw insights from diverse datasets, and construct robust solutions that transcend conventional boundaries. 
 
