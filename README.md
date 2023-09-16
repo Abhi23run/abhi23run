@@ -8,11 +8,12 @@ I am currently pursuing my Masters's in Computational Data Analytics from Georgi
 
 Awards & Achievements 🎖️ : 
 
+  ⭐ Winner of the Generative AI Case Study Challenge at Prudential Financial amongst all Grad Interns.
   ⭐ Awarded Leading by Example award in 5 quarters and Champion of the Quarter award in 3 quarters at Innovaccer Inc. <br/>
   ⭐ Bagged an All India Rank of 1336 and 916 in JEE ADVANCED 2015 and JEE MAINS 2015 respectively - Top 0.1% <br/>
   ⭐ Recipient of KVPY (Kishore Vaigyanik Protsahan Yojana) Scholarship - 2015 <br/>
   ⭐ Felicitated with Shyamal and Sunanda Ghosh Endownment Scholarship as one of the best incoming sophomore at IIT Kharagpur. <br/>
-  ⭐ Winner of the Generative AI Case Study Challenge at Prudential Financial amongst all Grad Interns.
+ 
 
 Experience 👨‍💻 : <br/>
 
