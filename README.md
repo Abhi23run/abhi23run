@@ -27,6 +27,7 @@ Prior to this, I have had 3+ years of work experience as a Senior Data Associate
 
 Projects : <br/>
 - [Numerical Reasoning over Financial Reports using LLMs](https://arxiv.org/abs/2312.14870)
+- [Towards a unified Multimodal Reasoning Framework](https://arxiv.org/abs/2312.15021)
 
 Now on to the fun part 😃 <br/>
 
