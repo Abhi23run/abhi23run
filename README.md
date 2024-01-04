@@ -25,7 +25,7 @@ I did my Internship at Prudential Financial in their Chief Data Office as a Grad
 
 Prior to this, I have had 3+ years of work experience as a Senior Data Associate at Innovaccer Inc., a Silicon Valley based healthcare analytics company that provides data driven solutions to various hospital systems and provider groups. I worked on scalable and deployment-ready solutions like “Predicting the probability of Readmission” & “Recommendation Engine for In-Network Post Acute Care expansion” , which helped me significantly in understanding the entire journey from unstructured heterogeneous pools of data to a user-friendly product through the lens of Data Science & Analytics.
 
-Projects : <br/>
+Papers : <br/>
 - [Numerical Reasoning over Financial Reports using LLMs](https://arxiv.org/abs/2312.14870)
 - [Towards a unified Multimodal Reasoning Framework](https://arxiv.org/abs/2312.15021)
 - [EXPLORE : Explainable Song Recommender System](https://arxiv.org/abs/2401.00353)
