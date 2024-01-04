@@ -29,7 +29,7 @@ In my previous role as a Senior Data Associate at Innovaccer Inc., a leading hea
 Papers : <br/>
 - [Numerical Reasoning over Financial Reports using LLMs](https://arxiv.org/abs/2312.14870)
 - [Towards a unified Multimodal Reasoning Framework](https://arxiv.org/abs/2312.15021)
-- [EXPLORE : Explainable Song Recommender System](https://arxiv.org/abs/2401.00353)
+- [EXPLORE: Explainable Song Recommender System](https://arxiv.org/abs/2401.00353)
   
 
 Now on to the fun part 😃 <br/>
@@ -41,7 +41,7 @@ I'm a passionate enthusiast for global exploration, endlessly intrigued by the s
 I'm an enthusiastic devotee of tech and entrepreneurial podcasts that illuminate the art of value creation in business. 
 
 
-
+<span style="color:blue">some *blue* text</span>
 
 <!--
 **Abhi23run/abhi23run** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
