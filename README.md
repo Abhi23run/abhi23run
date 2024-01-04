@@ -6,8 +6,8 @@ I did my Master's in Computational Data Analytics from Georgia Tech, an institut
 
 My educational background, underscored by my professional journey, empowers me with a unique confluence of theoretical depth and applied mastery in data science and technology. <br/>
 
-![Georgia Tech](../images/gatech_image.jpeg){: style="height:83px"}
-![IIT Kharagpur](../../images/iit_kgp_image.jpeg){: style="height:83px"}
+![Georgia Tech](images/gatech_image.jpeg){: style="height:83px"}
+![IIT Kharagpur](images/iit_kgp_image.jpeg){: style="height:83px"}
 
 Awards & Achievements 🎖️ : 
 
