@@ -40,9 +40,6 @@ I am a big sports buff and I enjoy playing and watching various sports like Socc
 I'm a passionate enthusiast for global exploration, endlessly intrigued by the stories, customs, and culinary delights that define each country's unique identity.<br/>
 I'm an enthusiastic devotee of tech and entrepreneurial podcasts that illuminate the art of value creation in business. 
 
-
-<span style="color:blue">some *blue* text</span>
-
 <!--
 **Abhi23run/abhi23run** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
