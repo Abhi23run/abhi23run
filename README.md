@@ -8,7 +8,7 @@ My educational background, underscored by my professional journey, empowers me w
 
 Awards & Achievements 🎖️ : 
 
-  ⭐ Regional Runner-up in (https://business.purdue.edu/events/data4good/) Hackathon - Generative AI for QA over medical transcripts <br/> 
+  ⭐ Regional Runner-up in [Purdue Data 4 Good](https://business.purdue.edu/events/data4good/) Hackathon - Generative AI for QA over medical transcripts <br/> 
   ⭐ Winner of the Generative AI Case Study Challenge at Prudential Financial amongst all Grad Interns. <br/>
   ⭐ Awarded Leading by Example award in 5 quarters and Champion of the Quarter award in 3 quarters at Innovaccer Inc. <br/>
   ⭐ Bagged an All India Rank of 1336 and 916 in JEE ADVANCED 2015 and JEE MAINS 2015 respectively - Top 0.1% <br/>
