@@ -34,7 +34,10 @@ Papers : <br/>
 - [Numerical Reasoning over Financial Reports using LLMs](https://arxiv.org/abs/2312.14870)
 - [Towards a unified Multimodal Reasoning Framework](https://arxiv.org/abs/2312.15021)
 - [EXPLORE: Explainable Song Recommender System](https://arxiv.org/abs/2401.00353)
-  
+
+Projects : <br/>
+- [Sales Forecasting for slow-selling SKU’s assisting in inventory management](https://drive.google.com/file/d/1FbcwAOigiAO4BTdVtF8tkAsCe11CHGJ7/view)
+- [Generative AI for Medical Diagnosis - LLMs for synthetic Tabular Data Generation (Capgemini - Practicum)](https://drive.google.com/drive/u/0/folders/11vEyHKSzG-1RjDfBMfPmEwumCt4sWbAq)
 
 Now on to the fun part 😃 <br/>
 
