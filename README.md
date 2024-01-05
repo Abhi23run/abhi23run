@@ -41,6 +41,7 @@ Papers : <br/>
 Projects : <br/>
 - [Generative AI for Medical Diagnosis - LLMs for synthetic Tabular Data Generation (Capgemini - Practicum)](https://drive.google.com/drive/u/0/folders/11vEyHKSzG-1RjDfBMfPmEwumCt4sWbAq)
 - [Sales Forecasting for slow-selling SKU’s assisting in inventory management](https://drive.google.com/file/d/1FbcwAOigiAO4BTdVtF8tkAsCe11CHGJ7/view)
+- [Personalized Session-based Recommender Systems (SBRS) for next-item prediction](https://drive.google.com/file/d/1dtPf1qYrzMrQ6LX7SQFCh6zLLH80iBYs/view)
 
 Now on to the fun part 😃 <br/>
 
