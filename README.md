@@ -43,6 +43,7 @@ Projects : <br/>
 - [Sales Forecasting for slow-selling SKU’s assisting in inventory management](https://drive.google.com/file/d/1FbcwAOigiAO4BTdVtF8tkAsCe11CHGJ7/view)
 - [SmartChoice: Tailoring User Experiences with Advanced Session-Based AI Recommendations](https://drive.google.com/file/d/1dtPf1qYrzMrQ6LX7SQFCh6zLLH80iBYs/view)
 - [RoboChef: Revolutionizing Meal Choices with AI-Powered Image Recognition and Personalized Recommendations](https://drive.google.com/file/d/1MuCwT6zBzeMwR-9yYM7ZqBw08euFJ0Zk/view?usp=sharing)
+- [Spotify Music Popularity Analysis: Regression for unveiling the Dynamics of Song Traction](https://drive.google.com/file/d/1-l9m0j9dSwLg8QdJuS1gAsCnRChfjg1O/view?usp=sharing)
 - [SuperMarket Sweep Problem using a variant of Traveling Salesman optimization problem](https://docs.google.com/presentation/d/1XPx0Yjkwy-L9ZWGLJVWnSNHsOF_TWcSi/edit?usp=sharing&ouid=108253324290053090647&rtpof=true&sd=true)
 
 Now on to the fun part 😃 <br/>
