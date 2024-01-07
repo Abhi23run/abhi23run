@@ -12,7 +12,7 @@ Georgia Tech            |  IIT Kharagpur
 
 Awards & Achievements 🎖️ : 
 
-  ⭐ Regional Runner-up and 14th across USA in [Purdue Data 4 Good](https://business.purdue.edu/events/data4good/) Hackathon - Generative AI for Extractive Question Answering over medical transcripts and patient-doctor dialogues. <br/> 
+  ⭐ Regional Runner-up and 14th across the USA in [Purdue Data 4 Good](https://business.purdue.edu/events/data4good/) Hackathon - Generative AI for Extractive Question Answering over medical transcripts and patient-doctor dialogues. <br/> 
   ⭐ Winner of the Generative AI Case Study Challenge at Prudential Financial amongst all Grad Interns. <br/>
   ⭐ Awarded Leading by Example award in 5 quarters and Champion of the Quarter award in 3 quarters at Innovaccer Inc. <br/>
   ⭐ Bagged an All India Rank of 1336 and 916 in JEE ADVANCED 2015 and JEE MAINS 2015 respectively - Top 0.1% <br/>
@@ -22,7 +22,7 @@ Awards & Achievements 🎖️ :
 
 Experience 👨‍💻 : <br/>
 
-I am joining Prudential Financial as a Senior Data Scientist in their Chief Data Office. My role is centered around the applications of LLMs, Graph ML & other ML Models in adding business value to the corporate function division, primarily around enterprise and HR.
+I am joining <strong><span style="color:blue">Prudential Financial</span></strong> as a Senior Data Scientist in their Chief Data Office. My role is centered around the applications of LLMs, Graph ML & other ML Models in adding business value to the corporate function division, primarily around enterprise and HR.
 
 I possess a multifaceted portfolio of Data Science experience that encompasses a diverse spectrum of domains, ranging from Recommender Systems, Natural Language Processing (NLP), Graph Machine Learning, and experimental design to Statistical modeling (Bayesian vs frequentist) and more. My journey in data science has seen me successfully navigate and excel across these distinct domains, a testament to my adaptability, analytical prowess, and commitment to embracing varied challenges. This well-rounded expertise equips me with the capability to holistically approach complex problems, draw insights from diverse datasets, and construct robust solutions that transcend conventional boundaries. 
 
