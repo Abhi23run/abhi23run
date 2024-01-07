@@ -25,7 +25,7 @@ Experience 👨‍💻 : <br/>
 I am joining **Prudential Financial** as a Senior Data Scientist in their Chief Data Office. My role is centered around the applications of LLMs, Graph ML & other ML Models in adding business value to the corporate function division, primarily around enterprise and HR.
 
 <p style="display:inline-block;" vertical-align:middle;>
-  <img src="images/prudential_logo.jpeg" ; vertical-align:middle ; width =100 ; height =10> 
+  <img src="images/prudential_logo.jpeg" width="500" height="600"> 
   Some text
 </p>
 
