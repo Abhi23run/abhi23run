@@ -22,7 +22,7 @@ Awards & Achievements 🎖️ :
 
 Experience 👨‍💻 : <br/>
 
-I am joining **Prudential Financial** <img src="images/prudential_logo.jpeg" width="30" height="15">  as a Senior Data Scientist in their Chief Data Office. My role is centered around the applications of LLMs, Graph ML & other ML Models in adding business value to the corporate function division, primarily around enterprise and HR.
+I am a Senior Data Scientist at Prudential Financial in their Chief Data Office. My role is centered around the applications of LLMs, Graph ML & other ML Models in adding business value to the corporate function division, primarily around enterprise and HR.
 
 I possess a multifaceted portfolio of Data Science experience that encompasses a diverse spectrum of domains, ranging from Recommender Systems, Natural Language Processing (NLP), Graph Machine Learning, and experimental design to Statistical modeling (Bayesian vs frequentist) and more. My journey in data science has seen me successfully navigate and excel across these distinct domains, a testament to my adaptability, analytical prowess, and commitment to embracing varied challenges. This well-rounded expertise equips me with the capability to holistically approach complex problems, draw insights from diverse datasets, and construct robust solutions that transcend conventional boundaries. 
 
