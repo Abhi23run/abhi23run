@@ -33,7 +33,7 @@ In my previous role as a Senior Data Associate at Innovaccer Inc., a leading hea
 Wanna view my Resume, Here you go!  <br/>
 [Resume 📝 ](https://drive.google.com/file/d/1cVhWO4pMWl5iQYCIeNZ3MH34UgCZSgsB/view?usp=sharing)
 
-Papers 📑 : <br/>
+Papers (arXiv) 📑 : <br/>
 - [Numerical Reasoning over Financial Reports using LLMs](https://arxiv.org/abs/2312.14870)
 - [Towards a unified Multimodal Reasoning Framework](https://arxiv.org/abs/2312.15021)
 - [EXPLORE: Explainable Song Recommender System](https://arxiv.org/abs/2401.00353)
