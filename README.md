@@ -31,7 +31,7 @@ I did my Internship at Prudential Financial in their Chief Data Office as a Grad
 In my previous role as a Senior Data Associate at Innovaccer Inc., a leading healthcare analytics company in Silicon Valley, I gained over three years of experience developing data-driven solutions for healthcare systems and provider groups. My work involved creating scalable, deployment-ready projects, such as developing a model to predict patient readmission probabilities and designing a recommendation engine for expanding in-network post-acute care. These projects enhanced my understanding of transforming diverse, unstructured data into accessible, user-centric products, leveraging my skills in Data Science and Analytics.
 
 Wanna view my Resume, Here you go!  <br/>
-[Resume](https://drive.google.com/file/d/1cVhWO4pMWl5iQYCIeNZ3MH34UgCZSgsB/view?usp=sharing)
+[Resume 📝 ](https://drive.google.com/file/d/1cVhWO4pMWl5iQYCIeNZ3MH34UgCZSgsB/view?usp=sharing)
 
 Papers 📑 : <br/>
 - [Numerical Reasoning over Financial Reports using LLMs](https://arxiv.org/abs/2312.14870)
