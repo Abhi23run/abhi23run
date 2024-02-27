@@ -26,7 +26,7 @@ I am a Senior Data Scientist at Prudential Financial in their Chief Data Office.
 Relevant Tech-Stack: <br/>
 - AWS (Bedrock, Lex, SageMaker, Comprehend, Kendra)
 - LLMs (Azure Open AI GPT-4, Llama-2, Titan, Claude, etc.), RAG based applications(Reranker, RAGAS)
-- Streamlit, Docker, LangChain
+- Streamlit, Docker, LangChain, Llamaindex
 - Python, SQL, Cypher
 - Neo4J, Visual Studio Code, BitBucker, JIRA
 
