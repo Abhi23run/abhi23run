@@ -22,7 +22,8 @@ Awards & Achievements 🎖️ :
 
 Experience 👨‍💻 : <br/>
 
-I am a Senior Data Scientist at Prudential Financial within it's Chief Data Office. My role is centered around the applications of LLMs, Graph ML & other ML Models catered towards adding business value to the corporate function division, primarily around enterprise and HR operations.<br/>
+I am a Senior Data Scientist at Prudential Financial within its Chief Data Office. 
+I am working on projects centered around the applications of Generative AI (LLMs, LMMs), Graph ML & other ML Models catered towards adding business value to the corporate function division, primarily around enterprise and HR operations.<br/>
 
 Relevant Tech-Stack: <br/>
 - AWS (Bedrock, Lex, SageMaker, Comprehend, Kendra)
