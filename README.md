@@ -28,7 +28,7 @@ I have experience building & deploying Gen AI applications at scale.
 
 Relevant Tech-Stack: <br/>
 - AWS (Bedrock, Lex, SageMaker, Comprehend, Kendra)
-- LLMs (Azure Open AI GPT-4, Llama-2, Titan, Claude, etc.), RAG based applications (Reranker, RAGAS)
+- LLMs (Azure Open AI GPT-4, Llama-2, Titan, Claude, etc.), RAG based applications (Reranker, RAGAS), Agents, Multimodality
 - Streamlit, Docker, LangChain, Llamaindex, OpenSearch
 - Python, SQL, Cypher
 - Neo4J, Visual Studio Code, BitBucker, JIRA
