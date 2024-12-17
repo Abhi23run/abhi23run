@@ -2,7 +2,7 @@
 
 Education 👨‍🎓 : 
 
-I completed my Master's in Computational Data Analytics at Georgia Tech, an institution recognized for its rigorous curriculum and dedication to fostering analytical prowess. I also hold a Bachelor’s Degree in Mechanical Engineering from IIT Kharagpur, one of the most revered engineering institutes in India.
+I completed my Master's in Computational Data Analytics from Georgia Tech, an institution recognized for its rigorous curriculum and dedication to fostering analytical prowess. I also hold a Bachelor’s Degree in Mechanical Engineering from IIT Kharagpur, one of the most revered engineering institutes in India.
 
 My educational background, underscored by my professional journey, empowers me with a unique confluence of theoretical depth and applied mastery in data science and technology. <br/>
 
